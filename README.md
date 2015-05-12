@@ -1,13 +1,5 @@
-plugin.video.990ro
-==================
+plugin.video.radioflyws
+=======================
 
-Addon XBMC pentru vizionarea filmelor si serialelor postate pe site-ul 990.ro
+Addon XBMC/KODI pentru vizionarea filmelor postate pe site-ul radioflyws.ro
 
-Preview:
-
-![](http://i.imgur.com/dHscDt8.jpg)
-
-![](http://i.imgur.com/ufMZ7Oz.jpg)
-
-Plugin author: andiraduta
-Contributors: cplaiasu
